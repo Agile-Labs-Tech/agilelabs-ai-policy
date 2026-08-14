@@ -1,0 +1,14 @@
+{
+  "name": "iso-ai-pillar-docs",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Renders the AI pillar markdown set as a browsable local site.",
+  "scripts": {
+    "build": "node build-site.js ..",
+    "serve": "node build-site.js .. && cd ../_site && python3 -m http.server 8899"
+  },
+  "dependencies": {
+    "markdown-it": "^14.1.0",
+    "markdown-it-anchor": "^9.2.0"
+  }
+}
