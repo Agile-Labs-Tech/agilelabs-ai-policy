@@ -20,11 +20,11 @@
 
 ## Approval
 
-| Role | Name | Signature | Date |
-|---|---|---|---|
-| Prepared by — Technical Leader | Wayne Tng | | |
-| Reviewed by — Information Security Manager | Sze Tho ChangSheng | | |
-| Approved by — Director | Liao Zhuli, Sujata | | |
+| Role | Name | Date |
+|---|---|---|
+| Prepared by — Technical Leader | Wayne Tng | 14 August 2026 |
+| Reviewed by — Information Security Manager | Sze Tho ChangSheng | 14 August 2026 |
+| Approved by — Director | Liao Zhuli, Sujata | 14 August 2026 |
 ## 1. Purpose and scope
 
 An **agentic AI system** is one that can plan and take actions autonomously — invoking tools, calling APIs, executing code, reading and writing data, or operating over multiple steps toward a goal without a human approving each step.

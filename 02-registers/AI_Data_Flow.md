@@ -1,12 +1,29 @@
 # AI Data Flow — Diagram and Step Narrative
 
-**AGILE LABS PTE. LTD.** · Rev 1.0 · 14 August 2026 · Owner: ISM · Classification: Internal
+**AGILE LABS PTE. LTD.** — ISMS-27 AI Data Governance and Handling Standard
 
-> **Evidence for CTM 2025 clause B.9.6** — *"Data flow diagram for AI assets have not been established, e.g. training data, data input including prompts, data output from AI."*
->
-> The finding named three things explicitly. All three are addressed below: **training data** (Section 3, steps 6–7 — outside Company custody), **data input including prompts** (steps 1–2), and **data output from AI** (steps 3–5).
+| | | | |
+|---|---|---|---|
+| **Document number** | ISMS-27 Annex A | **Revision** | 1.0 |
+| **Document owner** | Information Security Manager (ISM) | **Issue date** | 14 August 2026 |
+| **Classification** | Internal | **Next review** | Annually, or on material change to AI use |
+| **Approval chain** | Prepared: Technical Leader · Reviewed: ISM · Approved: Director |  | |
 
 ---
+
+## Revision history
+
+| Rev | Date | Prepared by | Change |
+|---|---|---|---|
+| 1.0 | 14 August 2026 | Technical Leader | New annex to ISMS-27. Establishes the AI data flow diagram and step narrative covering training data, data input including prompts, and data output from AI, with classification, protocol and control recorded per flow. |
+
+## Approval
+
+| Role | Name | Date |
+|---|---|---|
+| Prepared by — Technical Leader | Wayne Tng | 14 August 2026 |
+| Reviewed by — Information Security Manager | Sze Tho ChangSheng | 14 August 2026 |
+| Approved by — Director | Liao Zhuli, Sujata | 14 August 2026 |
 
 ## 1. Diagram
 

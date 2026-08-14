@@ -36,7 +36,7 @@ This procedure defines how the Company identifies, analyses, evaluates, treats a
 
 ## 2. Where AI risk is recorded
 
-[AI Risk Register](../02-registers/AI_Risk_Register.md)
+[AI Risk Register](https://docs.google.com/spreadsheets/d/1wScBPiUj2EtrSmPwBMbXwvXbK40x3zwJK1Qqm-Dpm1k/edit?gid=0#gid=0)
 
 ## 3. Risk identification — AI-specific sources
 
@@ -122,7 +122,7 @@ Each risk row records: risk owner, treatment decision, treatment activities, tre
 | Full review and approval of the Register | Annually, with the existing Register review | ISM, approved by Director |
 | Record an explicit **non-applicability assessment** where an instrument does not apply | On assessment | ISM |
 
-Content: [AI Legal and Regulatory Register](../02-registers/AI_Legal_and_Regulatory_Register.md).
+Content: [AI Legal and Regulatory Register](https://docs.google.com/spreadsheets/d/1wScBPiUj2EtrSmPwBMbXwvXbK40x3zwJK1Qqm-Dpm1k/edit?gid=0#gid=0).
 
 ## 9. Monitoring and review
 

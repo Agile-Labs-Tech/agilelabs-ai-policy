@@ -7,7 +7,7 @@
 | **Document number** | ISMS-30 | **Revision** | 1.0 |
 | **Document owner** | Information Security Manager (ISM) | **Issue date** | 14 August 2026 |
 | **Classification** | Internal | **Next review** | Annually |
-| **Approval chain** | Prepared: Technical Leader · Reviewed: ISM · Approved: Director | **Status** | DRAFT — for review and approval |
+| **Approval chain** | Prepared: Technical Leader · Reviewed: ISM · Approved: Director |  | |
 
 ---
 

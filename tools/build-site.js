@@ -17,14 +17,18 @@ md.renderer.rules.fence = (tokens, idx, opts, env, self) => {
   return defaultFence(tokens, idx, opts, env, self);
 };
 
+// Folders published to the site, in sidebar order. Anything not listed here is
+// walked but not published — README.md is deliberately excluded, being the GitHub
+// landing page rather than a controlled document.
+// The first document of the first section becomes the site landing page.
 const SECTIONS = [
-  ['', 'Overview'],
   ['00-framework', 'Framework'],
   ['01-policies', 'Policies'],
   ['02-registers', 'Registers'],
-  ['03-mapping', 'Mapping'],
-  ['04-audit-pack', 'Audit pack'],
+  ['03-audit-pack', 'Audit pack'],
 ];
+
+let HOME = 'index.html';   // resolved to the first published page at build time
 
 function walk(dir) {
   return fs.readdirSync(dir, { withFileTypes: true }).flatMap(e => {
@@ -143,7 +147,7 @@ function page(f, prev, next) {
 </div>
 <div class="layout">
 <nav class="side">
-  <div class="brand"><a href="${up}README.html"><b>AI Pillar — ISMS / AIMS</b>
+  <div class="brand"><a href="${up}${HOME}"><b>AI Pillar — ISMS / AIMS</b>
   <span>Agile Labs · Rev 1.0</span></a></div>
   <input class="filter" placeholder="Filter documents…" oninput="flt(this.value)">
   ${nav}
@@ -178,11 +182,13 @@ function flt(q){q=q.toLowerCase();
 
 fs.rmSync(OUT, { recursive: true, force: true });
 const ordered = SECTIONS.flatMap(([d]) => byDir[d] || []);
+if (!ordered.length) { console.error('No pages to build — check SECTIONS.'); process.exit(1); }
+HOME = ordered[0].out;
 ordered.forEach((f, i) => {
   const dest = path.join(OUT, f.out);
   fs.mkdirSync(path.dirname(dest), { recursive: true });
   fs.writeFileSync(dest, page(f, ordered[i - 1], ordered[i + 1]));
 });
 fs.writeFileSync(path.join(OUT, 'index.html'),
-  `<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0;url=README.html">`);
-console.log(`Built ${ordered.length} pages → ${OUT}`);
+  `<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0;url=${HOME}">`);
+console.log(`Built ${ordered.length} pages → ${OUT}  (landing: ${HOME})`);

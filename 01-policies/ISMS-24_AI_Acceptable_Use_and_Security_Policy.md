@@ -75,7 +75,7 @@ This policy defines how Agile Labs governs, secures and controls the use of arti
 
 ## 4. AI security objectives
 
-The AI security objectives that guide the secure use of AI systems, and ensure they are used only for their intended purposes, are established in **[AIMS-01 Section 3](../00-framework/AIMS-01_AI_Policy_and_Objectives.md)** and measured in the [AI Objectives register](../02-registers/AI_Objectives_and_Measures.md). They are approved by the Director at management review and monitored by the ISM.
+The AI security objectives that guide the secure use of AI systems, and ensure they are used only for their intended purposes, are established in **[AIMS-01 Section 3](../00-framework/AIMS-01_AI_Policy_and_Objectives.md)** and measured in the [AI Objectives register](https://docs.google.com/spreadsheets/d/1wScBPiUj2EtrSmPwBMbXwvXbK40x3zwJK1Qqm-Dpm1k/edit?gid=0#gid=0). They are approved by the Director at management review and monitored by the ISM.
 
 ## 5. Roles and responsibilities
 
@@ -90,7 +90,7 @@ The AI security objectives that guide the secure use of AI systems, and ensure t
 
 ## 6. Sanctioned AI tools and the approval process
 
-Only AI tools recorded in the [AI Asset Register](../02-registers/AI_Asset_Register.md) and approved by the ISM may be used for Company or customer work.
+Only AI tools recorded in the [AI Asset Register](https://docs.google.com/spreadsheets/d/1wScBPiUj2EtrSmPwBMbXwvXbK40x3zwJK1Qqm-Dpm1k/edit?gid=0#gid=0) and approved by the ISM may be used for Company or customer work.
 
 ### 6.1 Rules of use
 

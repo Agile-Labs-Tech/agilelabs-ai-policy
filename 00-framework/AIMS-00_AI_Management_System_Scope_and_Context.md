@@ -126,10 +126,10 @@ AI security duties are held by the named roles above rather than by a standing c
 
 | Element | Where it lives |
 |---|---|
-| AI risks and opportunities | [ISMS-28 AI Risk Management Procedure](../01-policies/ISMS-28_AI_Risk_Management_Procedure.md) and the [AI Risk Register](../02-registers/AI_Risk_Register.md) |
-| AI objectives and planning to achieve them | [AIMS-01 AI Policy and Objectives](AIMS-01_AI_Policy_and_Objectives.md) and the [AI Objectives register](../02-registers/AI_Objectives_and_Measures.md) |
+| AI risks and opportunities | [ISMS-28 AI Risk Management Procedure](../01-policies/ISMS-28_AI_Risk_Management_Procedure.md) and the [AI Risk Register](https://docs.google.com/spreadsheets/d/1wScBPiUj2EtrSmPwBMbXwvXbK40x3zwJK1Qqm-Dpm1k/edit?gid=0#gid=0) |
+| AI objectives and planning to achieve them | [AIMS-01 AI Policy and Objectives](AIMS-01_AI_Policy_and_Objectives.md) and the [AI Objectives register](https://docs.google.com/spreadsheets/d/1wScBPiUj2EtrSmPwBMbXwvXbK40x3zwJK1Qqm-Dpm1k/edit?gid=0#gid=0) |
 | AI system impact assessment | Required at Stage 1 of the AI SDLC for any AI capability affecting individuals |
-| Legal and regulatory requirements | [AI Legal and Regulatory Register](../02-registers/AI_Legal_and_Regulatory_Register.md), merged into the Company Register of Legal, Regulation and Contractual Requirements |
+| Legal and regulatory requirements | [AI Legal and Regulatory Register](https://docs.google.com/spreadsheets/d/1wScBPiUj2EtrSmPwBMbXwvXbK40x3zwJK1Qqm-Dpm1k/edit?gid=0#gid=0), merged into the Company Register of Legal, Regulation and Contractual Requirements |
 
 ## 5. Clause 7 — Support
 
@@ -154,7 +154,7 @@ AI security duties are held by the named roles above rather than by a standing c
 | Activity | Frequency | Owner | Output |
 |---|---|---|---|
 | AI objective measurement | Annually | ISM | AI Objectives register updated |
-| AI internal audit | Annually | Internal auditor | [Internal Audit Checklist — AI](../04-audit-pack/Internal_Audit_Checklist_AI.md) |
+| AI internal audit | Annually | Internal auditor | [Internal Audit Checklist — AI](../03-audit-pack/Internal_Audit_Checklist_AI.md) |
 | CTM self-assessment including AI pillar | Annually | ISM | Self-assessment record |
 | Management review — AI section | Annually | Director | Management review minute |
 | Quarterly AI review | Quarterly | ISM | AI review record (Section 3.3) |
@@ -163,7 +163,7 @@ AI security duties are held by the named roles above rather than by a standing c
 
 ## 8. Clause 10 — Improvement
 
-Non-conformities and corrective actions follow the existing ISMS process.The CTM 2025 AI pillar findings and their corrective actions are tracked in the [CAR Register](../04-audit-pack/CAR_Register_AI_Pillar.md).
+Non-conformities and corrective actions follow the existing ISMS process.
 
 ## 9. Records
 

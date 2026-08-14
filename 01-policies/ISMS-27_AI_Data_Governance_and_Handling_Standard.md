@@ -69,7 +69,7 @@ This is the single most important rule in this standard, and the one most often 
 
 ## 3. AI data lifecycle
 
-Every AI data element is recorded in the [AI Data Inventory](../02-registers/AI_Data_Inventory.md) across all seven stages.
+Every AI data element is recorded in the [AI Data Inventory](https://docs.google.com/spreadsheets/d/1wScBPiUj2EtrSmPwBMbXwvXbK40x3zwJK1Qqm-Dpm1k/edit?gid=0#gid=0) across all seven stages.
 
 | Stage | What is recorded | Controls |
 |---|---|---|
@@ -86,7 +86,7 @@ Every AI data element is recorded in the [AI Data Inventory](../02-registers/AI_
 
 The Company maintains an AI data flow diagram and a step narrative showing, for every AI asset: input and prompt sources, retrieval and context sources, the model or provider used, output destinations, storage, retention, **and where the Agile Labs boundary ends and the customer boundary begins**.
 
-- Maintained in [AI_Data_Flow.md](../02-registers/AI_Data_Flow.md).
+- Maintained in [ISMS-27 Annex A — AI Data Flow](../02-registers/AI_Data_Flow.md), which is approved and revised with this standard.
 - Reviewed at least annually, and on any change to an AI tool, model, integration or customer arrangement.
 
 ## 5. Data provenance
