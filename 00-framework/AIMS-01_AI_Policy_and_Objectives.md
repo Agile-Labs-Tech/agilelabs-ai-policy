@@ -15,7 +15,7 @@
 
 | Rev | Date | Prepared by | Change |
 |---|---|---|---|
-| 1.0 | 14 August 2026 | Technical Leader | New document. Establishes the AI policy statement and eight measurable AI security objectives, closing CTM 2025 finding B.1.6. |
+| 1.0 | 14 August 2026 | Technical Leader | New document. Establishes the AI policy statement and eight measurable AI security objectives |
 
 ## Approval
 

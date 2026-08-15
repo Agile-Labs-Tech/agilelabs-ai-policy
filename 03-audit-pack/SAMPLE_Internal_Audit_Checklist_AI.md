@@ -1,5 +1,4 @@
-# Internal Audit Checklist — AI Security Pillar
-
+# Internal Audit Checklist — AI Security Pillar (Sample)
 **AGILE LABS PTE. LTD.** · Rev 1.0 · 14 August 2026 · Owner: ISM · Classification: Internal
 
 ---
@@ -10,7 +9,7 @@
 |---|---|
 | Standard / criteria | CSA CTM 2025, Performer tier — AI Security pillar; ISO/IEC 27001:2022; AIMS documents |
 | Internal auditor | Wayne Tng, Technical Leader |
-| **Audit date** | **14 August 2026** |
+| **Audit date** | **15 August 2026** |
 | Audit type | Pre-certification internal audit, ahead of the ISOCert verification audit of 17–18 August 2026 |
 | Documents reviewed | AIMS-00, AIMS-01, ISMS-07 Annex A, ISMS-13 Annex A, ISMS-24, ISMS-25, ISMS-27, ISMS-28, ISMS-29, ISMS-30, ISMS-31, AI Data Flow |
 
@@ -39,7 +38,7 @@
 | # | Question | Evidence to sight | Result | Notes |
 |---|---|---|---|---|
 | 2.1 | Has the Annual AI review been held, with cross-functional input recorded? | AI review records for the last 12 months | **OFI** | To be conduct next review |
-| 2.2 | Has AI security best practice been communicated to staff at least once a year? | Slack posts / email | **C** | Email communication was sent on 14 August 2026 |
+| 2.2 | Has AI security best practice been communicated to staff at least once a year? | Slack posts / email | **C** |  |
 | 2.3 | Is the AI policy set complete, approved and current (reviewed within 12 months)? | Document register; revision dates | **C** | Documents approved 14 Aug 2026. |
 | 2.4 | Have all active staff acknowledged the AI policy? | Acknowledgement | **NC** | Acknowledge is within the Email |
 
@@ -68,7 +67,7 @@
 | 5.2 | Have AI features in existing SaaS products been checked and decided? | AI Asset Register | **OFI** |  |
 | 5.3 | Does the AI Data Inventory cover all 7 lifecycle stages for every row? | AI Data Inventory | **C** | Lifecycle model established in ISMS-27 Section 3. |
 | 5.4 | Is vendor retention recorded alongside Company retention? | Register | **C** | |
-| 5.5 | Does the AI data flow match actual behaviour? | Diagram vs a live walkthrough with a developer | **OFI** | AI Data Flow exists with a boundary diagram and an 8-step narrative giving classification, protocol and control per flow. No walkthrough was conducted with developer as at 14 August 2026, |
+| 5.5 | Does the AI data flow match actual behaviour? | Diagram vs a live walkthrough with a developer | **OFI** | AI Data Flow exists with a boundary diagram and an 8-step narrative giving classification, protocol and control per flow. No walkthrough was conducted with developer as at 15 August 2026, |
 | 5.6 | Is the classification inheritance rule applied in practice? | Sample: where did the output of a Confidential prompt end up? | **NC** | Rule is documented in ISMS-27 Section 2.3. |
 | 5.7 | Are provenance records complete for any third-party model artefact? | Provenance register | **C** | |
 
@@ -78,18 +77,18 @@
 |---|---|---|---|---|
 | 6.1 | Is configuration evidence dated within the year for every AI asset? | Evidence folder | **OFI** | |
 | 6.2 | Is vendor training-on-content disabled, and evidenced? | Screenshot | **C** | |
-| 6.3 | Are exclusions / ignore files present and effective? | Repository configuration. | **OFI** | No requirement for this as at 14 August 2026 |
+| 6.3 | Are exclusions / ignore files present and effective? | Repository configuration. | **OFI** | No requirement for this as at 15 August 2026 |
 | 6.4 | Are AI workspace admin rights limited to TL or ISM? | Access Rights | **C** | Only ISM and TL have root access | 
-| 6.5 | Are API keys scoped, stored in 1Password? | 1Password | **OFI** | No requirement for this as at 14 August 2026 |
+| 6.5 | Are API keys scoped, stored in 1Password? | 1Password | **OFI** | No requirement for this as at 15 August 2026 |
 
 ## Section 7 — Secure AI development
 
 | # | Question | Evidence to sight | Result | Notes |
 |---|---|---|---|---|
 | 7.1 | Has the AI SDLC been applied to a real project, with gate records? | Stage-gate record | **OFI** | Framework established in ISMS-07 Annex A (7 stages with gates). However as no new project has been started. |
-| 7.2 | Was AI-assisted code peer-reviewed and did it pass the quality gate? | Sample merge requests + SonarQube | **OFI** | No merge requst as at 14 August 2026 |
+| 7.2 | Was AI-assisted code peer-reviewed and did it pass the quality gate? | Sample merge requests + SonarQube | **OFI** | No merge requst as at 15 August 2026 |
 | 7.3 | What is the rejection rate on AI-assisted merge requests? | Merge request history | **OFI** | |
-| 7.4 | Are system prompts version-controlled and reviewed in merge requests? | Repository | **OFI** | No merge request as at 14 August 2026 |
-| 8.5 | Was adversarial testing performed before release of any AI feature? |ISMS-25 Section 6.1 | **OFI** | The test is specified. No AI feature released as at 14 August 2026. |
+| 7.4 | Are system prompts version-controlled and reviewed in merge requests? | Repository | **OFI** | No merge request as at 15 August 2026 |
+| 8.5 | Was adversarial testing performed before release of any AI feature? |ISMS-25 Section 6.1 | **OFI** | The test is specified. No AI feature released as at 15 August 2026. |
 
 ---

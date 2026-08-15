@@ -16,7 +16,7 @@
 
 | Rev | Date | Prepared by | Change |
 |---|---|---|---|
-| 1.0 | 14 August 2026 | Technical Leader | New document. Establishes governance for agentic AI on the four dimensions of the IMDA Model AI Governance Framework for Agentic AI v1.5, with hard boundaries, an approval process and six-monthly review. |
+| 1.0 | 14 August 2026 | Technical Leader | New document. Establishes governance for agentic AI on the four dimensions of the IMDA Model AI Governance Framework for Agentic AI v1.5, with hard boundaries. |
 
 ## Approval
 

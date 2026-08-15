@@ -16,7 +16,7 @@
 
 | Rev | Date | Prepared by | Change |
 |---|---|---|---|
-| 1.0 | 14 August 2026 | Technical Leader | New document. Establishes AI-specific risk identification, the action-space/reversibility/autonomy analysis, AI system impact assessment, and the quarterly legal-register review process closing CTM 2025 finding B.5.1. |
+| 1.0 | 14 August 2026 | Technical Leader | New document. Establishes AI-specific risk identification, the action-space/reversibility/autonomy analysis, AI system impact assessment, and the quarterly legal-register review process.|
 
 ## Approval
 

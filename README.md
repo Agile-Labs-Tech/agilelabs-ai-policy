@@ -25,7 +25,7 @@ iso-ai-pillar/
 ├── 00-framework/     What the AI management system is, who owns it, what it covers
 ├── 01-policies/      The controls themselves
 ├── 02-registers/     The AI data flow diagram
-└── 03-audit-pack/    Internal audit checklist
+└── 03-audit-pack/    Internal working papers
 ```
 
 **The registers live in Google Sheets**, which is the controlled copy of every record that proves the controls operate. Links throughout this set point at that workbook directly. The one exception is the **AI data flow**.
@@ -63,12 +63,6 @@ iso-ai-pillar/
 | [AI Legal and Regulatory Register](https://docs.google.com/spreadsheets/d/1wScBPiUj2EtrSmPwBMbXwvXbK40x3zwJK1Qqm-Dpm1k/edit?gid=0#gid=0) | Google Sheets |
 | [AI Risk Register](https://docs.google.com/spreadsheets/d/1wScBPiUj2EtrSmPwBMbXwvXbK40x3zwJK1Qqm-Dpm1k/edit?gid=0#gid=0) | Google Sheets |
 | [CIS Baseline Mapping](https://docs.google.com/spreadsheets/d/1wScBPiUj2EtrSmPwBMbXwvXbK40x3zwJK1Qqm-Dpm1k/edit?gid=0#gid=0) | Google Sheets |
-
-### 03-audit-pack
-
-| File | Purpose |
-|---|---|
-| [Internal Audit Checklist — AI](03-audit-pack/Internal_Audit_Checklist_AI.md) | Checklist for 2026 |
 
 ---
 

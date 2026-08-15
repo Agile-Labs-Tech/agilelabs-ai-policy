@@ -154,12 +154,10 @@ AI security duties are held by the named roles above rather than by a standing c
 | Activity | Frequency | Owner | Output |
 |---|---|---|---|
 | AI objective measurement | Annually | ISM | AI Objectives register updated |
-| AI internal audit | Annually | Internal auditor | [Internal Audit Checklist — AI](../03-audit-pack/Internal_Audit_Checklist_AI.md) |
 | CTM self-assessment including AI pillar | Annually | ISM | Self-assessment record |
 | Management review — AI section | Annually | Director | Management review minute |
 | Quarterly AI review | Quarterly | ISM | AI review record (Section 3.3) |
 
-> **On cadence.** Performance evaluation of the AI objectives is **annual**, which is what CTM clause B.1.6 requires. Operational verification runs more frequently — configuration checks, register reviews, legal-register review and supplier monitoring are quarterly under the standards that own them (ISMS-25 Section 9, ISMS-27 Section 11, ISMS-28 Section 8, ISMS-29 Section 7). Those cadences are deliberately not annual: an annual configuration check would make an eleven-month-old screenshot the evidence for objective AI-7.
 
 ## 8. Clause 10 — Improvement
 

@@ -16,7 +16,7 @@
 
 | Rev | Date | Prepared by | Change |
 |---|---|---|---|
-| 1.0 | 14 August 2026 | Technical Leader | New document. Establishes AI asset classification, the AI data lifecycle, data flow mapping, provenance, integrity and secure handling of AI input, model and output, closing CTM 2025 findings B.9.5, B.9.6, B.9.7 and A.3.4(a). |
+| 1.0 | 14 August 2026 | Technical Leader | New document. Establishes AI asset classification, the AI data lifecycle, data flow mapping, provenance, integrity and secure handling of AI input.|
 
 ## Approval
 
