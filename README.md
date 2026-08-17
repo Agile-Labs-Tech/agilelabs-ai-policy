@@ -28,7 +28,7 @@ iso-ai-pillar/
 └── 03-audit-pack/    Internal working papers
 ```
 
-**The registers live in Google Sheets**, which is the controlled copy of every record that proves the controls operate. Links throughout this set point at that workbook directly. The one exception is the **AI data flow**.
+**The registers live in Google Sheets**, which is the controlled copy of every record that proves the controls operate. Links throughout this set point at that workbook directly. The exceptions are the **AI data flow** and the **AI network diagrams**. AI tool due diligence assessments are maintained in the AI-Tool-Due-Diligence-Assessments workbook.
 
 ### 00-framework
 
@@ -61,6 +61,7 @@ iso-ai-pillar/
 | [AI Asset Register](https://docs.google.com/spreadsheets/d/1wScBPiUj2EtrSmPwBMbXwvXbK40x3zwJK1Qqm-Dpm1k/edit?gid=0#gid=0) | Google Sheets |
 | [AI Data Inventory](https://docs.google.com/spreadsheets/d/1wScBPiUj2EtrSmPwBMbXwvXbK40x3zwJK1Qqm-Dpm1k/edit?gid=0#gid=0) | Google Sheets |
 | **[AI Data Flow](02-registers/AI_Data_Flow.md)** | This repository |
+| **[AI Network Diagrams (ISMS-27 Annex B)](02-registers/AI_Network_Diagrams.md)** | This repository |
 | [AI Legal and Regulatory Register](https://docs.google.com/spreadsheets/d/1wScBPiUj2EtrSmPwBMbXwvXbK40x3zwJK1Qqm-Dpm1k/edit?gid=0#gid=0) | Google Sheets |
 | [AI Risk Register](https://docs.google.com/spreadsheets/d/1wScBPiUj2EtrSmPwBMbXwvXbK40x3zwJK1Qqm-Dpm1k/edit?gid=0#gid=0) | Google Sheets |
 | [CIS Baseline Mapping](https://docs.google.com/spreadsheets/d/1wScBPiUj2EtrSmPwBMbXwvXbK40x3zwJK1Qqm-Dpm1k/edit?gid=0#gid=0) | Google Sheets |
