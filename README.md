@@ -50,6 +50,7 @@ iso-ai-pillar/
 | ISMS-31 | [Agentic AI Governance Policy](01-policies/ISMS-31_Agentic_AI_Governance_Policy.md) |
 | ISMS-07 Annex A | [Secure AI Development Lifecycle](01-policies/ISMS-07_AnnexA_Secure_AI_Development_Lifecycle.md) |
 | ISMS-13 Annex A | [AI Incident Response](01-policies/ISMS-13_AnnexA_AI_Incident_Response.md) |
+| ISMS-14 Annex A | [AI Logging Procedure](01-policies/ISMS-14_AnnexA_AI_Logging_Procedure.md) |
 
 ### 02-registers
 

@@ -70,7 +70,7 @@ Applies to every AI tool in the AI Asset Register. Settings are applied at the w
 | **Access control** | Service accounts used for AI calls have no interactive login and no access to production data stores beyond what the feature requires. |
 | **Rate and cost limits** | Usage limits, quotas and billing alerts configured to bound abuse and detect anomalous consumption. |
 | **Transport and storage** | TLS 1.2 or above for all calls. Prompts and outputs containing Confidential data are stored only where the Data Inventory permits. |
-| **Logging** | Where the service provides logs, request metadata (timestamp, user, model, purpose) retained. Prompt and output content is logged only where necessary. |
+| **Logging** | Where the service provides logs, request metadata (timestamp, user, model, purpose) retained. Prompt and output content is logged only where necessary, per [ISMS-14 Annex A AI Logging Procedure](ISMS-14_AnnexA_AI_Logging_Procedure.md). |
 | **Failure behaviour** | Timeouts, retries and circuit-breaking configured so a provider outage degrades gracefully rather than failing open. |
 
 ## 6. Model hardening and prompt engineering practices
