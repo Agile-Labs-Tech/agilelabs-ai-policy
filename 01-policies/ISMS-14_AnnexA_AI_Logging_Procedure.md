@@ -68,8 +68,9 @@ What is retained in production is decided **before go-live**.
 
 ## 6. Review and monitoring
 
-1. System Monitoring: the Technical Leader reviews for anomalous prompt patterns, error and refusal spikes, unusual tool invocation and unexpected usage or cost.
-2. Any findings that are suspicious are raised as incidents; anomalous usage or cost is treated as a potential account compromise.
+1. System Monitoring: the Technical Leader reviews for anomalous prompt (input) patterns, error and refusal spikes, unusual tool invocation and unexpected usage or cost.
+2. Output Monitoring: the Technical Leader reviews output logs generated from the approved AI for accuracy, relevance and performances.
+3. Any findings that are suspicious are raised as incidents; anomalous usage or cost is treated as a potential account compromise.
 
 ## 7. Records
 
